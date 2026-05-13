@@ -11,23 +11,6 @@
 
 ---
 
-### Tech Stack
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,html,css,react,nodejs,mongodb,discord,git,github&theme=dark" />
-
----
-
-### GitHub Stats
-<div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vansszh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=contribs&count_private=true" />
-&nbsp;
-<img width="48%" src="https://streak-stats.demolab.com?user=vansszh&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=00000000" />
-</div>
-<div align="center">
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansszh&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-</div>
-
----
-
 ### Activity
 <div align="center">
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vansszh&theme=2077" />
