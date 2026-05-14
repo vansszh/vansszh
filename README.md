@@ -22,3 +22,20 @@
 <div align="center">
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vansszh&theme=2077" />
 </div>
+
+
+---
+
+### Projects
+
+**web**
+
+[youtube-downloader](https://github.com/vansszh/youtube-downloader) — Youtube video and audio (mp4 & mp3) downloader.
+
+[wordle-game](https://github.com/vansszh/wordle-game) — A faithful NYT Wordle clone with local-first gameplay, Google auth, and daily cloud sync.
+
+[deobfuscated-territorial-io](https://github.com/vansszh/deobfuscated-territorial-io) — Deobfuscated source of territorial.io for studying its game logic and mechanics.
+
+**discord bots**
+
+[repo-pulse-discord-bot](https://github.com/vansszh/repo-pulse-discord-bot) — A Discord bot that brings GitHub collaboration — PRs, issues, and commits — directly into your server.
