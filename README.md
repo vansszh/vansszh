@@ -28,14 +28,14 @@
 
 ### Projects
 
-**web**
+#### 🌐 Web
 
-[youtube-downloader](https://github.com/vansszh/youtube-downloader) — Youtube video and audio (mp4 & mp3) downloader.
+Youtube video and audio (mp4 & mp3) downloader. [youtube-downloader](https://github.com/vansszh/youtube-downloader)
 
-[wordle-game](https://github.com/vansszh/wordle-game) — A faithful NYT Wordle clone with local-first gameplay, Google auth, and daily cloud sync.
+A faithful NYT Wordle clone with local-first gameplay, Google auth, and daily cloud sync. [wordle-game](https://github.com/vansszh/wordle-game)
 
-[deobfuscated-territorial-io](https://github.com/vansszh/deobfuscated-territorial-io) — Deobfuscated source of territorial.io for studying its game logic and mechanics.
+Deobfuscated source of territorial.io for studying its game logic and mechanics. [deobfuscated-territorial-io](https://github.com/vansszh/deobfuscated-territorial-io)
 
-**discord bots**
+#### 🤖 Discord Bots
 
-[repo-pulse-discord-bot](https://github.com/vansszh/repo-pulse-discord-bot) — A Discord bot that brings GitHub collaboration — PRs, issues, and commits — directly into your server.
+A Discord bot that brings GitHub collaboration (PRs, issues, commits) directly into your server. [repo-pulse-discord-bot](https://github.com/vansszh/repo-pulse-discord-bot)
