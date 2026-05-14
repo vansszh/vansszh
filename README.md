@@ -13,27 +13,18 @@
 
 ---
 
----
+### Projects
 
-<div align="center">
+#### 🌐 Web
 
-### things i've built
+| # | Project | Description |
+|---|---------|-------------|
+| 1 | [youtube-downloader](https://github.com/vansszh/youtube-downloader) | Youtube video and audio (mp4 & mp3) downloader |
+| 2 | [wordle-game](https://github.com/vansszh/wordle-game) | A faithful NYT Wordle clone with local-first gameplay, Google auth, and daily cloud sync |
+| 3 | [deobfuscated-territorial-io](https://github.com/vansszh/deobfuscated-territorial-io) | Deobfuscated source of territorial.io for studying its game logic and mechanics |
 
-</div>
+#### 🤖 Discord Bots
 
-&nbsp;
-
-`🌐 web`
-
-**[youtube-downloader](https://github.com/vansszh/youtube-downloader)** &nbsp;·&nbsp; download youtube videos and audio in mp4 & mp3
-
-**[wordle-game](https://github.com/vansszh/wordle-game)** &nbsp;·&nbsp; nyt wordle clone, local-first with google auth and daily cloud sync
-
-**[deobfuscated-territorial-io](https://github.com/vansszh/deobfuscated-territorial-io)** &nbsp;·&nbsp; territorial.io source, deobfuscated for studying game logic
-
-&nbsp;
-
-`🤖 discord bots`
-
-**[repo-pulse](https://github.com/vansszh/repo-pulse-discord-bot)** &nbsp;·&nbsp; pipes github activity (prs, issues, commits) straight into discord
-
+| # | Project | Description |
+|---|---------|-------------|
+| 1 | [repo-pulse-discord-bot](https://github.com/vansszh/repo-pulse-discord-bot) | A Discord bot that brings GitHub collaboration (PRs, issues, commits) directly into your server |
