@@ -23,13 +23,18 @@
 
 ### Projects
 
-#### 🌐 Web
+#### 🎮 Web-Based Games
 
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | [wordle-game](https://github.com/vansszh/wordle-game) | Online web based wordle with global ranking and google signup |
-| 2 | [deobfuscated-territorial-io](https://github.com/vansszh/deobfuscated-territorial-io) | Deobfuscated code for territorial.io, only for game understand and logic |
-| 3 | [OpenFrontIO](https://github.com/vansszh/OpenFrontIO) | Online browser-based RTS game (forked from openfrontio/OpenFrontIO) |
+| 2 | [OpenFrontIO](https://github.com/vansszh/OpenFrontIO) | Online browser-based RTS game (forked from openfrontio/OpenFrontIO) |
+
+#### 🔍 Game Analysis & Research
+
+| # | Project | Description |
+|---|---------|-------------|
+| 1 | [deobfuscated-territorial-io](https://github.com/vansszh/deobfuscated-territorial-io) | Deobfuscated code for territorial.io, only for game understand and logic |
 
 #### 🤖 Discord Bots
 
