@@ -47,7 +47,7 @@
 ### GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vansszh&theme=github_dark" />
+<img src="https://github-contributor-stats.vercel.app/api?username=vansszh&theme=dark" />
 </div>
 
 <div align="center">
