@@ -41,3 +41,22 @@
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | [repo-pulse-discord-bot](https://github.com/vansszh/repo-pulse-discord-bot) | A modern open-source Discord bot that connects GitHub collaboration directly into Discord servers |
+
+---
+
+### GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vansszh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vansszh&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vansszh&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vansszh&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vansszh&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vansszh&theme=tokyonight" />
+</div>
