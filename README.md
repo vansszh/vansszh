@@ -41,16 +41,3 @@
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | [repo-pulse-discord-bot](https://github.com/vansszh/repo-pulse-discord-bot) | A modern open-source Discord bot that connects GitHub collaboration directly into Discord servers |
-
----
-
-### GitHub Stats
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=vansszh&theme=dark" />
-</div>
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vansszh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vansszh&theme=github-dark-blue&hide_border=true" />
-</div>
