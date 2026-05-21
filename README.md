@@ -47,16 +47,10 @@
 ### GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vansszh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vansszh&theme=github_dark" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vansszh&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vansszh&theme=tokyonight&utcOffset=5.5" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vansszh&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vansszh&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vansszh&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vansszh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vansszh&theme=github-dark-blue&hide_border=true" />
 </div>
