@@ -19,12 +19,12 @@
 
 | # | Project | Description |
 |---|---------|-------------|
-| 1 | [youtube-downloader](https://github.com/vansszh/youtube-downloader) | Youtube video and audio (mp4 & mp3) downloader |
-| 2 | [wordle-game](https://github.com/vansszh/wordle-game) | A faithful NYT Wordle clone with local-first gameplay, Google auth, and daily cloud sync |
-| 3 | [deobfuscated-territorial-io](https://github.com/vansszh/deobfuscated-territorial-io) | Deobfuscated source of territorial.io for studying its game logic and mechanics |
+| 1 | [wordle-game](https://github.com/vansszh/wordle-game) | Online web based wordle with global ranking and google signup |
+| 2 | [deobfuscated-territorial-io](https://github.com/vansszh/deobfuscated-territorial-io) | Deobfuscated code for territorial.io, only for game understand and logic |
+| 3 | [OpenFrontIO](https://github.com/vansszh/OpenFrontIO) | Online browser-based RTS game (forked from openfrontio/OpenFrontIO) |
 
 #### 🤖 Discord Bots
 
 | # | Project | Description |
 |---|---------|-------------|
-| 1 | [repo-pulse-discord-bot](https://github.com/vansszh/repo-pulse-discord-bot) | A Discord bot that brings GitHub collaboration (PRs, issues, commits) directly into your server |
+| 1 | [repo-pulse-discord-bot](https://github.com/vansszh/repo-pulse-discord-bot) | A modern open-source Discord bot that connects GitHub collaboration directly into Discord servers |
