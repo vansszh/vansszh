@@ -2,13 +2,6 @@
 <div align="center">
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vansszh&theme=2077" />
 &nbsp;
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vansszh&theme=2077&utcOffset=5.5" />
-&nbsp;
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vansszh&theme=2077" />
-</div>
-<div align="center">
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vansszh&theme=2077" />
-</div>
 
 
 ---
