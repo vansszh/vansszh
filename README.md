@@ -1,8 +1,7 @@
 ### Activity
 <div align="center">
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vansszh&theme=2077" />
-&nbsp;
-
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vansszh&theme=2077" />
+</div>
 
 ---
 
